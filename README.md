@@ -1,0 +1,1 @@
+This is a basic layout for refactoring a functional programming design into OOP - it is incomplete
