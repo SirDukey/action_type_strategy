@@ -1,3 +1,7 @@
+"""
+MOCK OF SOME ACTIONS
+"""
+
 from tools import *
 from base import BasePromotionAction
 

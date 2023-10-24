@@ -1,3 +1,7 @@
+"""
+SETUP A PARENT CLASS
+"""
+
 from abc import ABCMeta, abstractmethod
 from tools import *
 

@@ -1,5 +1,6 @@
 """
 == Strategy ==
+DUMMY FILE TO WORK ON THE LOGIC
 
 BasePromotionAction: A class that is inherited by each action class, the attributes are initialized here
 PromotionAction: A class that can execute an action on a promotion

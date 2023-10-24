@@ -1,3 +1,7 @@
+"""
+MOCK SOME BASIC LOGIC
+"""
+
 def open_promotion(promotion_id):
     """simple mock of opening a promotion"""
     return {'_id': promotion_id}
